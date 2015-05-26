@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+  <processor>
+    <Brand>Intel</Brand>
+    <Name>i5 - 4670K</Name>
+    <Cores>4</Cores>
+    <Threads>4</Threads>
+    <Baseclock>3.50 Ghz</Baseclock>
+    <Turboclock>3.80 Ghz</Turboclock>
+  </processor>
+
+  <processor>
+    <Brand>Intel</Brand>
+    <Name>i7 - 4790K</Name>
+    <Cores>4</Cores>
+    <Threads>8</Threads>
+    <Baseclock>4.00 Ghz</Baseclock>
+    <Turboclock>4.40 Ghz</Turboclock>
+  </processor>
+
+  <processor>
+    <Brand>AMD</Brand>
+    <Name>FX - 8350</Name>
+    <Cores>8</Cores>
+    <Threads>8</Threads>
+    <Baseclock>4.00 Ghz</Baseclock>
+    <Turboclock>4.20 Ghz</Turboclock>
+  </processor>
+
+  <processor>
+    <Brand>AMD</Brand>
+    <Name>FX - 9590</Name>
+    <Cores>8</Cores>
+    <Threads>8</Threads>
+    <Baseclock>4.70 Ghz</Baseclock>
+    <Turboclock>5.00 Ghz</Turboclock>
+  </processor>
+    
+<processor><Brand>Intel</Brand><Name>i7 - 2600K</Name><Cores>4</Cores><Threads>8</Threads><Baseclock>3.20 Ghz</Baseclock><Turboclock>3.60 Ghz</Turboclock></processor><processor><Brand>AMD</Brand><Name>FX - 4100</Name><Cores>2</Cores><Threads>4</Threads><Baseclock>3.20 Ghz</Baseclock><Turboclock>3.60 Ghz</Turboclock></processor></list>

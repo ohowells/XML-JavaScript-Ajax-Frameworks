@@ -1,0 +1,76 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 0.8em;
+    margin: 0px;
+}
+
+.place_holder {
+    position: relative;
+    max-width: 730px;
+    margin: auto;
+    min-height: 100%;
+}
+
+header,
+footer {
+    background-color: #1E1F1E;
+    color: #fff;
+    padding: 10px;
+}
+
+article,
+#drop_down,
+#row_names,
+button {
+    border: 0px;
+    margin-top: 10px;
+    padding: 8px;
+    background-color: #fff;
+}
+
+#drop_d {
+    margin-top: 0px;
+}
+
+input {
+    padding: 8px;
+    border: 0px;
+    display: block;
+    width: 230px;
+}
+
+section {
+    border: 0px;
+    padding: 8px;
+    background-color: #ddd;
+}
+
+footer {
+    height: 60px;
+}
+
+#table_data {
+    margin-top: 0px;
+}
+
+.table_layout,
+th,
+td,
+tr {
+    border: 0px;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.table_layout th {
+    color: #fff;
+    background-color: #1E1F1E;
+}
+
+.table_layout tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+.table_layout tr:nth-child(even) {
+    background-color: #ddd;
+}

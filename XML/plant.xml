@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    
+    <plant>
+        <Common>Bloodroot</Common>
+        <Botanical>Sanguinaria canadensis</Botanical>
+        <Zone>4</Zone>
+        <Light>Mostly Shady</Light>
+        <Price>$2.44</Price>
+        <Availability>031599</Availability>
+    </plant>
+    
+    <plant>
+        <Common>Columbine</Common>
+        <Botanical>Aquilegia canadensis</Botanical>
+        <Zone>3</Zone>
+        <Light>Mostly Shady</Light>
+        <Price>$9.37</Price>
+        <Availability>030699</Availability>
+    </plant>
+    
+    <plant>
+        <Common>Marsh Marigold</Common>
+        <Botanical>Caltha palustris</Botanical>
+        <Zone>4</Zone>
+        <Light>Mostly Sunny</Light>
+        <Price>$6.81</Price>
+        <Availability>051799</Availability>
+    </plant>
+    
+    <plant>
+        <Common>Cowslip</Common>
+        <Botanical>Caltha palustris</Botanical>
+        <Zone>4</Zone>
+        <Light>Mostly Shady</Light>
+        <Price>$9.90</Price>
+        <Availability>030699</Availability>
+    </plant>
+    
+    <plant>
+        <Common>Dutchman's-Breeches</Common>
+        <Botanical>Dicentra cucullaria</Botanical>
+        <Zone>3</Zone>
+        <Light>Mostly Shady</Light>
+        <Price>$6.44</Price>
+        <Availability>012099</Availability>
+    </plant>
+    
+    <plant>
+        <Common>Ginger, Wild</Common>
+        <Botanical>Asarum canadense</Botanical>
+        <Zone>3</Zone>
+        <Light>Mostly Shady</Light>
+        <Price>$9.03</Price>
+        <Availability>041899</Availability>
+    </plant>
+
+</catalog>

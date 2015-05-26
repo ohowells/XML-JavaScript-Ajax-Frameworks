@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="eu">
+
+<head>
+    <title>Advanced Internet CW 1</title>
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js">
+    </script>
+
+    <script type="text/javascript" src="main.js">
+    </script>
+</head>
+
+<body>
+    <div class="place_holder">
+        <header>
+            <h1>12044628 Assignment One</h1>
+        </header>
+
+        <section>
+            <article id="drop_d">
+                <h2>Drop-down box</h2>
+
+                <div id="drop">
+                </div>
+            </article>
+
+            <article>
+                <h2>Table View</h2>
+
+                <div id="table_data">
+                </div>
+            </article>
+
+            <article>
+                <h2>Search</h2>
+
+                <input id="table_search" type="text" placeholder="Enter a word to search..." />
+                <button value="Search" onClick="SearchTable(document.getElementById('table_search').value, 
+                                                            document.getElementById('row_names').value)">Search</button>
+                <div id="table_row_dd" class="hide">
+                </div>
+            </article>
+
+            <article>
+                <h2>Insert</h2>
+
+                <input id="a" type="text" placeholder="Node one..." />
+                <input id="b" type="text" placeholder="Node two..." />
+                <input id="c" type="text" placeholder="Node three..." />
+                <input id="d" type="text" placeholder="Node four..." />
+                <input id="e" type="text" placeholder="Node five..." />
+                <input id="f" type="text" placeholder="Node six..." />
+                <button value="Add" onClick="Insert(document.getElementById('a').value,
+                                                    document.getElementById('b').value,
+                                                    document.getElementById('c').value,
+                                                    document.getElementById('d').value,
+                                                    document.getElementById('e').value,
+                                                    document.getElementById('f').value)">Add</button>
+            </article>
+        </section>
+
+        <footer>
+            <p>All rights reserved &copy; 2014. Owain Howells</p>
+        </footer>
+    </div>
+</body>
+
+</html>
